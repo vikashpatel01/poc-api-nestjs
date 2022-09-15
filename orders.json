@@ -1,0 +1,30 @@
+[
+  {
+    "customerName": "Patel",
+    "customerId": "SOB20000512",
+    "orderNumber": "2038787468",
+    "enquiryId": "INQ20000945",
+    "orderDate": "May 31,2022"
+  },
+  {
+    "customerName": "Sriramka",
+    "customerId": "SOB20000513",
+    "orderNumber": "2038787469",
+    "enquiryId": "INQ20000946",
+    "orderDate": "May 31,2022"
+  },
+  {
+    "customerName": "Kumar",
+    "customerId": "SOB20000514",
+    "orderNumber": "2038787470",
+    "enquiryId": "INQ20000947",
+    "orderDate": "May 31,2022"
+  },
+  {
+    "customerName": "Lakshya",
+    "customerId": "SOB20000515",
+    "orderNumber": "2038787471",
+    "enquiryId": "INQ20000948",
+    "orderDate": "May 31,2022"
+  }
+]
